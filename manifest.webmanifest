@@ -1,0 +1,17 @@
+{
+  "name": "STAIREVO — Steel & Glass Engineering",
+  "short_name": "STAIREVO",
+  "description": "Balustrades, staircases and steel & glass engineering",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#0b111c",
+  "theme_color": "#0b111c",
+  "icons": [
+    {
+      "src": "/assets/brand.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}
