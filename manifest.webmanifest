@@ -8,10 +8,10 @@
   "theme_color": "#0b111c",
   "icons": [
     {
-      "src": "/assets/brand.svg",
+      "src": "/assets/stairevo-emblem.webp",
       "sizes": "any",
-      "type": "image/svg+xml",
-      "purpose": "any maskable"
+      "type": "image/webp",
+      "purpose": "any"
     }
   ]
 }

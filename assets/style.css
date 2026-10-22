@@ -5,3 +5,8 @@
 .hero-slide .hero-fallback{z-index:0}
 .card-photo img{position:relative;z-index:1}
 @media(max-width:700px){.hero-slide img{object-position:center center}}
+
+/* Media resilience: display approved branding and avoid invisible asset placeholders */
+.brand-icon{object-fit:contain;flex-shrink:0}
+.hero-slide img,.card-photo img,.photo-tile img,.feature-visual img{color:white}
+.image-fallback{object-fit:contain!important;background:#0d1726;padding:min(5vw,30px)}
